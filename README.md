@@ -6,6 +6,8 @@
 
 vue的拖拽库 [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 
+字符串格式化、json字符化工具 [qs](https://github.com/ljharb/qs)
+
 # node.js
 
 监控文件变化 [chokidar](https://github.com/paulmillr/chokidar)
