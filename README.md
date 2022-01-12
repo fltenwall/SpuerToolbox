@@ -6,6 +6,9 @@
 
 vue的拖拽库 [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 
+同步请求库 [sync-request](https://github.com/ForbesLindesay/sync-request)
+
+单独进程同步运行异步命令 [sync-rpc](https://github.com/ForbesLindesay/sync-rpc)
 # node.js
 
 监控文件变化 [chokidar](https://github.com/paulmillr/chokidar)
